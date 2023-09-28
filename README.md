@@ -4,7 +4,7 @@ This project designed to bring the benefits of yoga practice right to your home,
 
 ## How It Works
 
-**Video Capture**: Yoga with AI uses your device's camera to capture your yoga poses in real-time.
+**Video Capture**: It uses your device's camera to capture your yoga poses in real-time.
 
 **Pose Detection**: The application employs PoseNet to detect key points of your body and analyze your posture.
 
