@@ -12,4 +12,4 @@ This project designed to bring the benefits of yoga practice right to your home,
 
 ## Website
 
-You can access the Yoga with AI application by visiting the hosted website at [ Yoga with AI website](https://ishika63.github.io/Yoga-with-AI/).
+You can access this application by visiting the hosted website at [ Yoga with AI](https://ishika63.github.io/Yoga-with-AI/).
